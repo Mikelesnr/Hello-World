@@ -8,17 +8,15 @@ This program is the first program of my cse310 university module to show that my
 
 {Provide a link to your YouTube demonstration. It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/4V6-Ol7492M)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+The software in this repository was created using vs code on ubuntu
 
-{Describe the programming language that you used}
+The programming language is python
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [stack overflow](https://stackoverflow.com/questions/1077347/hello-world-in-python)
+- [Geeks for geeks](https://www.geeksforgeeks.org/python-program-to-print-hello-world)
